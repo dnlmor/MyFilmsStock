@@ -31,8 +31,9 @@ Save your favorite movies and access them anytime in the **My Films** section.
 
 1. Clone the repository:  
 
-   git clone https://github.com/dnlmor/MyFilmsStock.git
-   cd MyFilmsStock
+        git clone https://github.com/dnlmor/MyFilmsStock.git
+   
+        cd MyFilmsStock
 
 
 Open myfilms.xcodeproj in Xcode.
