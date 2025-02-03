@@ -6,15 +6,15 @@ MyFilms is a modern iOS application built with SwiftUI and Core Data, allowing u
 
 ### 🎥 Movie List  
 Browse through the latest movies fetched from TMDb.  
-<img src="MovieList.jpg" alt="Movie List" width="300"/>
+<img src="documentation/MovieList.jpg" alt="Movie List" width="300"/>
 
 ### 📄 Movie Details  
 View in-depth details about a selected movie, including its poster, description, release year, rating, and more.  
-<img src="MovieDetail.jpg" alt="Movie Detail" width="300"/>
+<img src="documentation/MovieDetail.jpg" alt="Movie Detail" width="300"/>
 
 ### ⭐ My Saved Films  
 Save your favorite movies and access them anytime in the **My Films** section.  
-<img src="MySavedFilms.jpg" alt="My Saved Films" width="300"/>
+<img src="documentation/MySavedFilms.jpg" alt="My Saved Films" width="300"/>
 
 ---
 
